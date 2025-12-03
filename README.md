@@ -1,61 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Flip Text Animation</title>
-<style>
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background: #0d1117;
-    color: #fff;
-    font-family: 'Arial', sans-serif;
-    overflow: hidden;
-  }
+# Hello 👋
 
-  .flip-text {
-    font-size: 3em;
-    font-weight: bold;
-    display: flex;
-  }
+<p align="center">
+  <!-- Replace the src with your exported GIF if you want typewriter or flip animation -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hello I'm ARIATE" width="400"/>
+</p>
 
-  .flip-text span {
-    display: inline-block;
-    animation: flip 1.5s infinite;
-    animation-delay: calc(var(--i) * 0.2s);
-    perspective: 1000px;
-  }
-
-  @keyframes flip {
-    0% { transform: rotateX(0deg); color: #ff4d6d; }
-    50% { transform: rotateX(180deg); color: #ffd700; }
-    100% { transform: rotateX(0deg); color: #ff4d6d; }
-  }
-</style>
-</head>
-<body>
-  <div class="flip-text">
-    <span style="--i:0">H</span>
-    <span style="--i:1">e</span>
-    <span style="--i:2">l</span>
-    <span style="--i:3">l</span>
-    <span style="--i:4">o</span>
-    <span style="--i:5"> </span>
-    <span style="--i:6">I</span>
-    <span style="--i:7">'</span>
-    <span style="--i:8">m</span>
-    <span style="--i:9"> </span>
-    <span style="--i:10">A</span>
-    <span style="--i:11">R</span>
-    <span style="--i:12">I</span>
-    <span style="--i:13">A</span>
-    <span style="--i:14">T</span>
-    <span style="--i:15">E</span>
-  </div>
-</body>
-</html>
+<h3 align="center">
+  Full Stack Web Developer
+</h3>
 
 ---
 
