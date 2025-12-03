@@ -1,8 +1,9 @@
-<h1 align="center">
-  <span>Hello, I'm</span>
-  <span style="color: #ff5733; font-weight: bold;">ARIATE</span>
-</h1>
+# Hello 👋
 
+<p align="center">
+  <!-- Replace the src with your typewriter GIF -->
+  <img src="hello-ariate-red-typewriter.gif" alt="Hello I'm ARIATE" width="400"/>
+</p>
 <h3 align="center">
   Full Stack Web Developer
 </h3>
