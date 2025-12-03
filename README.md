@@ -1,14 +1,16 @@
 <h1 align="center">
-  <span>Hello, I'm</span>
-  <span style="color: #ff5733; font-weight: bold;">ARIATE</span>
+  <span style="font-size: 2.5em; animation: heartBeat 1s infinite;">💖</span>
+  <span>Hello I'm <b>ARIATE</b></span>
+  <span style="font-size: 2.5em; animation: moonGlow 2s infinite;">🌙</span>
 </h1>
 
-<h3 align="center">
-  Full Stack Web Developer
-</h3>
+<p align="center">
+  <i>Full Stack Web Developer</i>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Hello animation"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150" alt="heart animation"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="moon animation"/>
 </p>
 
 ---
