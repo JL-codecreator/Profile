@@ -1,13 +1,15 @@
-# Hello 👋
-
-<p align="center">
-  <!-- Replace the src with your exported GIF if you want typewriter or flip animation -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hello I'm ARIATE" width="400"/>
-</p>
+<h1 align="center">
+  <span>Hello, I'm</span>
+  <span style="color: #ff5733; font-weight: bold;">ARIATE</span>
+</h1>
 
 <h3 align="center">
   Full Stack Web Developer
 </h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Hello animation"/>
+</p>
 
 ---
 
