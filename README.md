@@ -1,16 +1,16 @@
 
+<p align="center">
+  <img src="https://tenor.com/view/cat-dancing-cute-dance-gif-17683009.gif" width="150" alt="Dancing Cat"/>
+</p>
+
 <h1 align="center">
-  <span>Hello, I'm</span>
-  <span style="color: red; font-weight: bold;">ARIATE 👋</span>
+  Hello, I'm **ARIATE**
 </h1>
 
-<h3 align="center">
+<h3 align="center" style="color: red;">
   Full Stack Web Developer
 </h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/‑some‑cat‑dancing‑gif‑URL.gif" width="150" alt="Dancing Cat"/>
-</p>
 
 
 ---
