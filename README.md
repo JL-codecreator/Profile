@@ -1,7 +1,7 @@
 
 <h1 align="center">
-  <span>Hello, I'm</span>
-  <span style="color: #ff5733; font-weight: bold;">ARIATE</span>
+  <span style="color: red;">Hello, I'm</span>
+  <span style="color: red; font-weight: bold;">ARIATE!</span>
 </h1>
 
 <h3 align="center">
