@@ -1,7 +1,7 @@
-#
+
 <h1 align="center">
   <span>Hello, I'm</span>
-  <span style="color: #ff5733; font-weight: bold;">ARIATE 👋</span>
+  <span style="color: red; font-weight: bold;">ARIATE 👋</span>
 </h1>
 
 <h3 align="center">
@@ -9,8 +9,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Hello animation"/>
+  <img src="https://media.tenor.com/‑some‑cat‑dancing‑gif‑URL.gif" width="150" alt="Dancing Cat"/>
 </p>
+
 
 ---
 
