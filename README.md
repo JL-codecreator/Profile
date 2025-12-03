@@ -1,17 +1,61 @@
-<h1 align="center">
-  <span style="font-size: 2.5em; animation: heartBeat 1s infinite;">💖</span>
-  <span>Hello I'm <b>ARIATE</b></span>
-  <span style="font-size: 2.5em; animation: moonGlow 2s infinite;">🌙</span>
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Flip Text Animation</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #0d1117;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    overflow: hidden;
+  }
 
-<p align="center">
-  <i>Full Stack Web Developer</i>
-</p>
+  .flip-text {
+    font-size: 3em;
+    font-weight: bold;
+    display: flex;
+  }
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150" alt="heart animation"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="moon animation"/>
-</p>
+  .flip-text span {
+    display: inline-block;
+    animation: flip 1.5s infinite;
+    animation-delay: calc(var(--i) * 0.2s);
+    perspective: 1000px;
+  }
+
+  @keyframes flip {
+    0% { transform: rotateX(0deg); color: #ff4d6d; }
+    50% { transform: rotateX(180deg); color: #ffd700; }
+    100% { transform: rotateX(0deg); color: #ff4d6d; }
+  }
+</style>
+</head>
+<body>
+  <div class="flip-text">
+    <span style="--i:0">H</span>
+    <span style="--i:1">e</span>
+    <span style="--i:2">l</span>
+    <span style="--i:3">l</span>
+    <span style="--i:4">o</span>
+    <span style="--i:5"> </span>
+    <span style="--i:6">I</span>
+    <span style="--i:7">'</span>
+    <span style="--i:8">m</span>
+    <span style="--i:9"> </span>
+    <span style="--i:10">A</span>
+    <span style="--i:11">R</span>
+    <span style="--i:12">I</span>
+    <span style="--i:13">A</span>
+    <span style="--i:14">T</span>
+    <span style="--i:15">E</span>
+  </div>
+</body>
+</html>
 
 ---
 
